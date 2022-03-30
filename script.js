@@ -1,4 +1,4 @@
-// 32:08
+
 
 // Initial data
 let currenteQuestion = 0;
